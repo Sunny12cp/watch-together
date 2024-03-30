@@ -24,9 +24,7 @@ const def = {
             help: 'It\'s easy, {link}watch here{/link}!',
         },
     },
-    invite: {
-        title: '',
-        description: '',
+    invite: ,
         copyLink: 'Click the link to copy it to the clipboard',
         clickToShare: 'Click to share the link',
         clickToCopy: 'Click to copy the link',
