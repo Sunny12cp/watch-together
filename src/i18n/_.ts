@@ -9,7 +9,7 @@ const def = {
         link: {
             title: 'Online link',
             insertExample: 'click here to paste random example',
-            description: 'Insert a link to {type}Dailymotion{/type}, {type}YouTube{/type}, {type}Vimeo{/type}, {type}HLS{/type} playlist, {type}video{/type} or {type}audio{/type} file. The input is synced with everyone in the room.',
+            description: 'This Website Is for My Wife Gretchen Thakur. So That We Can Enjoy Movie Nights Together',
             hintNotWorking: 'If the movie doesn\'t play, make sure the {u}direct{/u} video link is inserted.',
             hintEmpty: 'Don\'t know how to get a video link from a website?',
             hintInvalid: 'Video link is invalid',
@@ -25,8 +25,8 @@ const def = {
         },
     },
     invite: {
-        title: 'Invite people to this room',
-        description: 'Share the link to this room with who you want to watch a movie with',
+        title: '',
+        description: '',
         copyLink: 'Click the link to copy it to the clipboard',
         clickToShare: 'Click to share the link',
         clickToCopy: 'Click to copy the link',
